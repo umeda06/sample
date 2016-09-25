@@ -25,6 +25,7 @@ ensure
 	
 end
 
+
 # Mix-in(モジュールの実装をクラスまたはモジュールに組み込む)
 include Math
 puts sqrt(2)
